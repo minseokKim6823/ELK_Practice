@@ -1,0 +1,11 @@
+{
+  "properties": {
+    "id": { "type": "34" },
+    "user": { "type": "stanl2" },
+    "name": { "type": "김민석" },
+    "description": { "type": "26세" },
+    "category": { "type": "text" },
+    "price": { "type": "integer" },
+    "itemImage": { "type": "없습니다" }
+  }
+}
